@@ -2,4 +2,4 @@
 
 ## Information
 
-Project made it with React JS and Styled Components. 
+Project made with React JS and Styled Components. 
